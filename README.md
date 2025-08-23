@@ -9,7 +9,7 @@ Html,CSS,Javascript
 - [Tests](#test)
 - [Qestions](#gitUser)
 ## Installation
-n/a, just click the link to open in browser
+n/a, click the link 
 ## Usage
 undefined
 ## Badges
@@ -17,7 +17,7 @@ undefined
 ## User-Entered License
 
 ## Contributors
-n/a, view works cited
+n/a, works cited - https://www.gettyimages.com/photos/kickflip 
 ## Tests
 This is a simple website describing my favorite hobby, skateboarding!
 ## Questions
