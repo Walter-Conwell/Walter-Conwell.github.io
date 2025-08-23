@@ -1,0 +1,41 @@
+body 
+{
+  background-color: blue;
+  border-style: dotted;
+  padding: 1em;
+  border-radius 25%;
+  font-size: 12px;
+}
+
+#paragraph1 {
+  border-color: #fffce8;
+  border-radius: 2px;
+  background-color: #c19ab7;
+}
+
+#paragraph2 {
+  font-style: italic;
+}
+h1 {
+  background-color: #040926;
+  color: white;
+}
+#card { 
+  justify-content: center;
+}
+
+footer {
+  background-color: #b66d0d;
+  color: #fbb13c;
+  font-size; 24px;
+  border: 4mm ridge rgb(0 0 0 / 0.6);
+  border-color: #3e363f;
+}
+#button {
+  justify-content: center;
+  width: 100%;
+}
+
+#displayText {
+  display: none;
+}
